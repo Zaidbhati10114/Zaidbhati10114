@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on WEB PROJECTS
 - 📫 How to reach me ... (EMAIL:zaidbhati007@gmail.com)
 - PortFolio Website => https://tender-keller-ff6ed3.netlify.app/#home
+- LINKEDIN PROFILE => https://www.linkedin.com/in/zaid-bhati-427a79192/
 
 <!---
 Zaidbhati10114/Zaidbhati10114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
