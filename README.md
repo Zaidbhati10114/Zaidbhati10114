@@ -11,6 +11,8 @@
 
 #### LinkedIn Profile:
 
+[LInkedin] https://www.linkedin.com/in/zaid-bhati-427a79192/
+
 
 
 ### Technolgies which i have worked on are down below.
