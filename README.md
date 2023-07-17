@@ -1,6 +1,20 @@
 ### Hi there I'm Zaid Bhati  👋
 
-#### Have an interest in Web Development has an experience creating custom websites through my web knowledge such as Responsive Design , Front-End Systems , Debugging ,Server Side Scripting .Expert in React Development, Proficient In JavaScript.
+#### _Have an interest in Web Development has an experience creating custom websites through my web knowledge such as Responsive Design , Front-End Systems , Debugging ,Server Side Scripting .Expert in React Development, Proficient In JavaScript._
+
+
+
+> I Build Full Stack Projects
+>
+>> Also Learn new technologies related to Web Development.
+
+
+#### LinkedIn Profile:
+
+
+
+### Technolgies which i have worked on are down below.
+
 
 <!--
 **Zaidbhati10114/Zaidbhati10114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
