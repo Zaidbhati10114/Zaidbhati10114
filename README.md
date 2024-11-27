@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Bhati</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India Working in IFS INDIA MERCANTILE LTD || PART TIME FREELANCER DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidbhati10114&label=Profile%20views&color=0e75b6&style=flat" alt="zaidbhati10114" /> </p>
 
